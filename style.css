@@ -1,0 +1,25 @@
+.info{
+    background-color: #deb887 ;
+  display:flex;
+  justify-content:space-between ;
+}
+
+h1{
+    color: #FF4F00;
+    text-align: center;
+    background-color:  #87CEEB;
+}
+h3{
+    color: black;
+    
+}
+p,h3{
+    text-align: center;
+}
+.about{
+    display:flex;
+    justify-content:flex-end ;
+    text-align: center;
+    padding:15px;
+}
+
